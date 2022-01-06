@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshua-torio
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning the basics of programming and on the side I am also self-studying coffee-making.
-- 💞️ I’m looking to collaborate on applications or video games.
+- 👀 I’m interested in copmuter, video games and almost anything tech-related.
+- 🌱 I’m currently re-learning the basics of programming and on the side I am also (self)studying coffee-making.
+- 💞️ I’m looking to collaborate on creating software applications or video games in the future.
 - 📫 How to reach me, contact me at toriomjoshua@gmail.com
 
 <!---
